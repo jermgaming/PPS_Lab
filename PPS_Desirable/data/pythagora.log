@@ -1,0 +1,70 @@
+2025-10-19T03:57:18.152Z INFO SharedStateManager initialized
+2025-10-19T03:57:18.152Z INFO Is remote: false
+2025-10-19T03:57:18.152Z INFO Starting Local. Installation path: undefined
+2025-10-19T03:57:18.153Z INFO [MainProvider] Creating new MainProvider instance...
+2025-10-19T03:57:18.154Z INFO Installation path exists: d:\PPS\PPS_Lab\PPS_Desirable\Practice 05 - Arrays
+2025-10-19T03:57:18.154Z INFO Initializing database with URL: file:C:\Users\atind\AppData\Local\Temp\pythagora-temp\pythagora.db
+2025-10-19T03:57:18.157Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-10-19T03:57:18.157Z INFO Database initialized successfully
+2025-10-19T03:57:18.158Z INFO [Migration] Checking for database migration...
+2025-10-19T03:57:18.265Z INFO [Migration] No migration needed
+2025-10-19T04:00:05.178Z INFO Closing entire Pythagora extension...
+2025-10-19T04:00:05.183Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new CR (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115607)
+    at j4.U (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120217)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117711)
+    at Kb.g (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:41045)
+    at Kb.executeCommand (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:40549)
+    at Object.executeCommand (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:199:103656)
+    at closeEntirePythagoraExtension (c:\Users\atind\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.21\out\extension.js:381:31)
+    at Object.deactivate (c:\Users\atind\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.21\out\extension.js:291:15)
+    at aJ.eb (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-10-19T04:00:31.460Z INFO SharedStateManager initialized
+2025-10-19T04:00:31.460Z INFO Is remote: false
+2025-10-19T04:00:31.461Z INFO Starting Local. Installation path: undefined
+2025-10-19T04:00:31.461Z INFO [MainProvider] Creating new MainProvider instance...
+2025-10-19T04:00:31.462Z INFO Installation path exists: d:\PPS\PPS_Lab\PPS_Desirable\Practice 02&03 - Data types & Operators
+2025-10-19T04:00:31.462Z INFO Initializing database with URL: file:C:\Users\atind\AppData\Local\Temp\pythagora-temp\pythagora.db
+2025-10-19T04:00:31.479Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-10-19T04:00:31.479Z INFO Database initialized successfully
+2025-10-19T04:00:31.479Z INFO [Migration] Checking for database migration...
+2025-10-19T04:00:31.583Z INFO [Migration] No migration needed
+2025-10-19T04:03:10.336Z INFO Closing entire Pythagora extension...
+2025-10-19T04:03:10.340Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new CR (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115607)
+    at j4.U (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120217)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117711)
+    at Kb.g (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:41045)
+    at Kb.executeCommand (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:40549)
+    at Object.executeCommand (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:199:103656)
+    at closeEntirePythagoraExtension (c:\Users\atind\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.21\out\extension.js:381:31)
+    at Object.deactivate (c:\Users\atind\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.21\out\extension.js:291:15)
+    at aJ.eb (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///c:/Users/atind/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
